@@ -8,7 +8,7 @@ A Chrome extension that tracks time spent on different websites and provides pro
 - **Intern ID**: CT08DG2167  
 - **Internship Program**: Full Stack Web Development Internship  
 - **Organization**: [CODTECH Technologies](https://codtech.in)  
-- **Task Number**: Task-3 – REAL-TIME COLLABORATIVE DOCUMENT EDITOR  
+- **Task Number**: Task-4  
 - **Project Title**:  CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 - **Duration**: 17 June 2025 – 17 August 2025 
 ---
