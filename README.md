@@ -35,5 +35,4 @@ A Chrome extension that tracks time spent on different websites and provides pro
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/time-tracker-extension.git
-cd time-tracker-extension
+https://github.com/OBULESH597/CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS.git
