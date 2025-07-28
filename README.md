@@ -26,7 +26,7 @@ A Chrome extension that tracks time spent on different websites and provides pro
 
 ## 📸 Preview
 
-![App Preview](./preview.png)
+![App Preview](./TASK-4/CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS/image1.png)
 
 ---
 
